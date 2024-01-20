@@ -1,4 +1,4 @@
 {
     "bitoAI.codeCompletion.enableAutoCompletion": true,
     "bitoAI.codeCompletion.enableCommentToCode": true
-}
+}gcloud auth application-default loginc clear
